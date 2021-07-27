@@ -13,23 +13,16 @@
 
 - 🤝 I’m happy for helping with **ML/DL Problem**
 
-- 📝 I regularly write articles on [https://medium.com/@handhikayp](https://medium.com/@handhikayp)
+- 📝 I regularly write articles on [Medium](https://medium.com/@handhikayp)
 
 - 💬 Ask me about **ML/DL**
 
-- 📫 How to reach me **handhikayp@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/handhikayp/](https://www.linkedin.com/in/handhikayp/)
-
 - ⚡ Fun fact **I prefer tea than coffee**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/handhikayp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="handhikayp" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@handhikayp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@handhikayp" height="30" width="40" /></a>
 <a href="https://medium.com/@handhikayp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@handhikayp" height="30" width="40" /></a>
 </p>
 
@@ -37,8 +30,3 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thedreamer911&show_icons=true&locale=en" alt="thedreamer911" /></p>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
