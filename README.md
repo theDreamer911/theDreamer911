@@ -15,7 +15,9 @@
     <a href="https://linkedin.com/in/@handhikayp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@handhikayp" height="30" width="40" /></a>
     <a href="https://medium.com/@handhikayp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@handhikayp" height="30" width="40" /></a>
     </p> 
-
+      <p align="center">  
+    <a href="https://tryhackme.com/p/scarletpark" target="blank"><img src="https://tryhackme-badges.s3.amazonaws.com/scarletpark.png" alt="TryHackMe"></a>
+  </p>
 </div>
   
 <div align="center">
@@ -26,6 +28,7 @@
   </a>
   
   <img src="https://www.holopin.me/thedreamer911"/>
+  
 </div>
 
 
