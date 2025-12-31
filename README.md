@@ -22,7 +22,6 @@
   
 <div align="center">
   <h3 align="center">Achievements</h3>
-  <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/62087305/activity-summary/c9df6b32e08eb7231e3c70c61f6e0db2f25f2c49'></iframe>
   <a href="https://github.com/theDreamer911">
    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theDreamer911&&show_icons=true&theme=aura&include_all_commits=true"/>
    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theDreamer911&hide=jupyter%20notebook,handlebars,kvlang,purebasic&layout=compact&langs_count=7&theme=aura"/>
